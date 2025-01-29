@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/license-sushiware-red)
+![Issues open](https://img.shields.io/github/issues/crashbrz/ghoa)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/crashbrz/ghoa)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/crashbrz/ghoa)
+![GitHub last commit](https://img.shields.io/github/last-commit/crashbrz/ghoa)
+
 # ghoa - GitHub OAuth Token Validator
 
 ghoa is a powerful tool designed to validate and retrieve information about GitHub OAuth tokens. It supports concurrency and allows validation of multiple tokens from a file, with additional features to retrieve user details, token scopes, and private repository information.
